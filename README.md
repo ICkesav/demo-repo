@@ -1,2 +1,2 @@
-# demo-repo
-for learning and doing practicals 
+# Demo
+Some Description of git
